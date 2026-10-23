@@ -1,7 +1,7 @@
 // 1. PASTE 3 BARIS KODE DARI BLYNK CONSOLE DI SINI:
-#define BLYNK_TEMPLATE_ID "TMPL6qNVmObo4"
-#define BLYNK_TEMPLATE_NAME "iMCLab ESP32"
-#define BLYNK_AUTH_TOKEN "M0MdmRPz9fF_wKqlUwDbgciw3AuvxLPy"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 #define BLYNK_PRINT Serial
 #include <WiFi.h>
@@ -9,8 +9,8 @@
 #include <BlynkSimpleEsp32.h>
 
 // 2. ISIKAN NAMA WIFI DAN PASSWORD YANG DIGUNAKAN (Misal Hotspot HP):
-char ssid[] = "Kost Putri F 32";
-char pass[] = "erkalima";
+char ssid[] = "";
+char pass[] = "";
 
 #define LED_PIN 2 // Pin LED internal ESP32
 
