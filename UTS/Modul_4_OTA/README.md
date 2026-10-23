@@ -1,6 +1,6 @@
 # Pemrograman OTA Berbasis Blynk
 
-**Laporan Riset Modul 4** — Pembaruan firmware ESP32 secara nirkabel (*Over-The-Air*) melalui Blynk.Air.
+**Laporan Riset Modul 4** Pembaruan firmware ESP32 secara nirkabel (*Over-The-Air*) melalui Blynk.Air.
 
 ## 1. Ringkasan Riset
 
