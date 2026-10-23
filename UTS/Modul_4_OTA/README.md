@@ -70,7 +70,6 @@ Versi pada `BLYNK_FIRMWARE_VERSION` dikirim perangkat ke cloud sehingga Blynk da
 - Fungsi program tidak berubah dari Modul 3 (kendali LED lewat `V0`); yang baru adalah mekanisme pembaruan dan pelaporan versi.
 - IP `192.168.100.145` bersifat dinamis dan dapat berganti pada sesi berikutnya.
 - Keberhasilan pembaruan dinilai dari versi terlapor pada Blynk. Perbandingan versi sebelum dan sesudah, serta lamanya proses OTA, perlu dilihat pada video karena tidak tercatat sebagai data tersendiri.
-- Kredensial Wi-Fi dan Auth Token berada di kode; jangan dipublikasikan, dan buat ulang token jika sempat terbuka.
 
 ## 8. Kesimpulan
 
