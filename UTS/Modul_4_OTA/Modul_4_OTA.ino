@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6qNVmObo4"
-#define BLYNK_TEMPLATE_NAME "iMCLab ESP32"
-#define BLYNK_AUTH_TOKEN "M0MdmRPz9fF_wKqlUwDbgciw3AuvxLPy"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 #define BLYNK_FIRMWARE_VERSION        "0.1.3" 
 
@@ -8,10 +8,10 @@
 #define APP_DEBUG
 
 #ifndef BLYNK_WIFI_SSID
-  #define BLYNK_WIFI_SSID "Kost Putri F 32"
+  #define BLYNK_WIFI_SSID ""
 #endif
 #ifndef BLYNK_WIFI_PASS
-  #define BLYNK_WIFI_PASS "erkalima"
+  #define BLYNK_WIFI_PASS ""
 #endif
 
 #include <Arduino.h>
