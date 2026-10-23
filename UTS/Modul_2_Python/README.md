@@ -1,6 +1,6 @@
 # Pemrograman Robotika dengan Kit iMCLab Menggunakan Python
 
-**Laporan Riset Modul 2** — Antarmuka Python (Jupyter) untuk kendali PWM motor DC dan pembacaan status ESP32 melalui USB serial.
+**Laporan Riset Modul 2** Antarmuka Python (Jupyter) untuk kendali PWM motor DC dan pembacaan status ESP32 melalui USB serial.
 
 ## 1. Ringkasan Riset
 
