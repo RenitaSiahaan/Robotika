@@ -1,6 +1,6 @@
 # Pemrograman iMCLab Berbasis Blynk
 
-**Laporan Riset Modul 3** — Kendali LED ESP32 dari jarak jauh melalui platform Blynk IoT.
+**Laporan Riset Modul 3** Kendali LED ESP32 dari jarak jauh melalui platform Blynk IoT.
 
 ## 1. Ringkasan Riset
 
