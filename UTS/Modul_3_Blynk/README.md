@@ -56,7 +56,6 @@ Switch Blynk (V0) --> Blynk Cloud --> Wi-Fi --> ESP32: BLYNK_WRITE(V0)
 
 - Kendali bersifat *event-driven*: ESP32 hanya bertindak saat nilai `V0` berubah, jadi `loop()` tetap ringan dan tidak memakai `delay()`.
 - Program membutuhkan Wi-Fi saat `Blynk.begin()`; bila jaringan tidak tersedia, program menunggu koneksi.
-- Kredensial Wi-Fi dan Auth Token tertulis langsung di kode. Untuk repositori publik, simpan di berkas terpisah yang tidak ikut di-*commit* atau ganti dengan placeholder, dan buat ulang token jika sempat terpublikasi.
 - Latensi end-to-end dan keandalan jangka panjang belum diukur.
 
 ## 8. Kesimpulan
