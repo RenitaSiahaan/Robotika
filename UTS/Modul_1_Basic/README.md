@@ -1,6 +1,6 @@
 # Pemrograman Basic Robotika dengan Kit iMCLab
 
-**Laporan Riset Modul 1** — Dasar ESP32 dan pemrograman C++ di Arduino IDE.
+**Laporan Riset Modul 1** Dasar ESP32 dan pemrograman C++ di Arduino IDE.
 
 ## 1. Ringkasan Riset
 
