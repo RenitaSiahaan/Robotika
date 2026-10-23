@@ -18,8 +18,8 @@
 #include <NetworkUdp.h>
 #include <ArduinoOTA.h>
 
-const char *ssid = "Kost Putri F 32";
-const char *password = "erkalima";
+const char *ssid = "";
+const char *password = "";
 uint32_t last_ota_time = 0;
 
 void setup() {S
